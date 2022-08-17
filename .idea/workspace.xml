@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca7cf511-ec9f-4c21-b8c5-f6fff56ecd1e" name="Default Changelist" comment="&quot;send on git&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjectmodel1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AutomationApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FacebookPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Loadprop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NikeContainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Registerpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RegistrationResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestData/testconfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/catagory.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/facebook.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MyStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/RunCuke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606092501.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606093320.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606093520.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606093704.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606094024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606094629.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606095808.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606095941.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606100150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606100524.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606100714.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606100749.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220606101941.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220607121423.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220607122930.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220607123224.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220607123502.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220607124836.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220609100457.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220610094435.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220610094623.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220610094930.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220610095146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Screenshot/Register20220610123147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/AutomationApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/DriverManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/FacebookPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Homepage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Loadprop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/NikeContainPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Registerpage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/RegistrationResultPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-reports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/BddFeatureFileProject.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/Hooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/MyStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/RunCuke.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29qZQSIOeidTGRZYrzsdYRQBYtz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Dev/BddFeatureFileProject"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\PageObjectmodel1\src\test\java\drivers" />
+      <recent name="C:\Dev\PageObjectmodel1\src\test\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Utils.findListOfElements">
+    <configuration name="RunCuke" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BddFeatureFileProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RunCuke" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hooks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BddFeatureFileProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Hooks" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageObjectModel1" type="TestNG">
+      <module name="PageObjectmodel1" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuits" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrwoser=chrome -Dcloud=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Dev\PageObjectmodel1" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuits.verifyUserIsOnRegistrationsResultPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectmodel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuits" />
+      <option name="METHOD_NAME" value="verifyUserIsOnRegistrationsResultPage" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome  -Dcloud=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuits.verifyUserIsOnregisterpage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectmodel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuits" />
+      <option name="METHOD_NAME" value="verifyUserIsOnregisterpage" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -Dcloud=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuits.verifyUserIsOnregisterpage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectmodel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuits" />
+      <option name="METHOD_NAME" value="verifyUserIsOnregisterpage" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbroser=chrome -Dcloud=false " />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuits.verifyUserIsOnregisterpage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectmodel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuits" />
+      <option name="METHOD_NAME" value="verifyUserIsOnregisterpage" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=Safari -Dcloud=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Utils.findListOfElements" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BddFeatureFileProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Utils" />
+      <option name="METHOD_NAME" value="findListOfElements" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Utils.findListOfElements" />
+        <item itemvalue="JUnit.RunCuke" />
+        <item itemvalue="TestNG.Hooks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca7cf511-ec9f-4c21-b8c5-f6fff56ecd1e" name="Default Changelist" comment="" />
+      <created>1653842559853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653842559853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;send on git&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;send on git&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/DriverManager.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Registerpage.java</url>
+          <line>23</line>
+          <properties class="org.example.Registerpage" method="userIsOnRegisterPage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
